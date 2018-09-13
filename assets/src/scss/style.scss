@@ -1,0 +1,15 @@
+// Setup
+@import 'setup/variables';
+@import 'setup/functions';
+@import 'setup/mixins';
+@import 'setup/typograpy';
+@import 'setup/main';
+
+// Layout
+@import 'layout/header';
+@import 'layout/footer';
+
+// Components
+@import 'components/buttons';
+@import 'components/forms';
+@import 'components/navigation';

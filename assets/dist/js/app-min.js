@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(d){console.log("DOM fully loaded and parsed")}),document.addEventListener("DOMContentLoaded",function(d){console.log("DOM fully loaded and parsed")});
